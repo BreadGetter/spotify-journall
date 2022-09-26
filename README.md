@@ -1,2 +1,2 @@
-# spotify_journal
+# spotify-journal
 web app to rate, comment on and organise albums 
